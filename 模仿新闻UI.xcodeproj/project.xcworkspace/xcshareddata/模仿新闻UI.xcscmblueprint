@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DD68BF4DF8B731A68D687684E23A48AAC894D5F4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1DDF78317A86D67B185D7BC3A50A4331921F513B" : 0,
+    "DD68BF4DF8B731A68D687684E23A48AAC894D5F4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BFEE0A11-D139-4882-9A46-006CBC877DCA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1DDF78317A86D67B185D7BC3A50A4331921F513B" : "",
+    "DD68BF4DF8B731A68D687684E23A48AAC894D5F4" : "-UI\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "模仿新闻UI",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "模仿新闻UI.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/linhai1994\/-1-tableView-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1DDF78317A86D67B185D7BC3A50A4331921F513B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/linhai1994\/-UI.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DD68BF4DF8B731A68D687684E23A48AAC894D5F4"
+    }
+  ]
+}

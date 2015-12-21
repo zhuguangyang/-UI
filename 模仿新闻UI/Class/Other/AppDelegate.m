@@ -22,6 +22,8 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     IWTabBarViewController *tarbarVC = [[IWTabBarViewController alloc] init];
     self.window.rootViewController = tarbarVC;
+    
+    NSLog(@"zhl");
 //    
 //    LoginVC *loginVC = [[LoginVC alloc] init];
 //    self.window.rootViewController = loginVC;
