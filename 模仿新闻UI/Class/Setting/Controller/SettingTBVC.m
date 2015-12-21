@@ -9,11 +9,14 @@
 #import "SettingTBVC.h"
 #import "TLUIHelper.h"
 #import "TLFounctionCell.h"
+#import "FriendTBVC.h"
 @interface SettingTBVC ()
 @property (nonatomic ,strong) NSMutableArray *datas;
 @end
 
 @implementation SettingTBVC
+
+
 
 -(void)viewDidLoad
 {
