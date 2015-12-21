@@ -20,6 +20,7 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    NSLog(@"123");
     IWTabBarViewController *tarbarVC = [[IWTabBarViewController alloc] init];
     self.window.rootViewController = tarbarVC;
     
